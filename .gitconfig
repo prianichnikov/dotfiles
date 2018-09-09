@@ -1,0 +1,9 @@
+[user]
+    email = prianichnikov.maksim@gmail.com
+    name = Maksim Prianichnikov
+[diff]
+    tool = kdiff3
+[alias]
+    lg = log --oneline --all --graph --pretty=format:\"%Cblue%h%Creset - %Cgreen%an%Creset, %ad: %s %Cred%d%Creset\"
+    cm = commit
+    st = status
