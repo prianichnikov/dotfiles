@@ -15,4 +15,4 @@ or wget
 `wget https://raw.githubusercontent.com/prianichnikov/config/master/tmux/.tmux.conf -O ~/.tmux.conf`
 
 Add alias to the ~/.bashrc file  
-`alias tm='tmux new || tmux attach'`
+`alias tm='tmux attach || tmux new'`
